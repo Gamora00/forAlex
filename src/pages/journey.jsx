@@ -39,8 +39,7 @@ function Journey() {
                 <h1 className='title'>To be continue</h1>
                 <h3 className='sub-title'>August 13, 2025</h3>
                 <div className='text'>
-                    <p>To be continue
-                    </p>
+                    <p>To be continue</p>
                 </div>
             </div>
         </div>

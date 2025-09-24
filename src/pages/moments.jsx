@@ -8,6 +8,10 @@ import Epic from '../assets/epic.jpg'
 import LiveValo from '../assets/liveValo.jpg'
 import Val1 from '../assets/val1.jpg'
 import Roblox from '../assets/roblox.jpg'
+import Call from '../assets/callF2f.jpg'
+import Coding from '../assets/coding.jpg'
+import Pretty from '../assets/prettyAlex.jpg'
+import Biscop from '../assets/withBiscop.jpg'
 
 import '../style/moments.css'
 
@@ -24,7 +28,12 @@ function Moments() {
     {image: Epic},
     {image: LiveValo},
     {image: Val1},
-    {image: Roblox}
+    {image: Roblox},
+    {image: Call},
+    {image: Coding},
+    {image: Pretty},
+    {image: Biscop}
+    
 
   ]
 
