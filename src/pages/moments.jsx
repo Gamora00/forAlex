@@ -59,20 +59,20 @@ function Moments() {
   { image: Three, description: "Our first night together", date: "December 18, 2025" },
   { image: Two, description: "A low-key picture", date: "December 19, 2025" },
   { image: Photo, description: "Our first photobooth", date: "December 19, 2025" },
-  { image: Gateway, description: "Family", date: "December 19, 2025" },
+  { image: Gateway, description: "Meeting tita and ninang", date: "December 19, 2025" },
   { image: One, description: "We went to Gateway Mall", date: "December 19, 2025" },
 
   { image: Six, description: "Christmas party with a Coachella theme and a doggo", date: "December 20, 2025" },
-  { image: Big6, description: "Big Hero 6", date: "December 20, 2025" },
+  { image: Big6, description: "Cousins and BFs", date: "December 20, 2025" },
   { image: Doggo, description: "Side profile with a doggo", date: "December 20, 2025" },
-  { image: Miaka, description: "With the school dog", date: "December 20, 2025" },
+  { image: Miaka, description: "With school dog micah", date: "December 20, 2025" },
 
   { image: Five, description: "Ninong and Ninang moment", date: "December 21, 2025" },
   { image: Four, description: "Going home with a flower", date: "December 21, 2025" },
 
   { image: Nine, description: "Lugaw date", date: "December 22, 2025" },
   { image: Seven, description: "Fairview date", date: "December 23, 2025" },
-  { image: Hairline, description: "Hairline kiss", date: "December 23, 2025" },
+  { image: Hairline, description: "Top head kiss to cry baby", date: "December 23, 2025" },
 
   { image: Eight, description: "Our last day before the flight", date: "December 24, 2025" },
 
