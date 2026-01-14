@@ -55,7 +55,7 @@ function Journey() {
 
             <div className='cell' data-aos="fade-up">
                 <h1 className='title'>To be continue</h1>
-                <h3 className='sub-title'>August 21, 2025</h3>
+                <h3 className='sub-title'></h3>
                 <div className='text'>
                     <p>To be continue</p>
                 </div>
