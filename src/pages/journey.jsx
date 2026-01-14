@@ -36,8 +36,26 @@ function Journey() {
             </div>
 
             <div className='cell' data-aos="fade-up">
+                <h1 className='title'>The Moment She Confessed</h1>
+                <h3 className='sub-title'>Nov 11, 2025</h3>
+                <div className='text'>
+                    <p>The moment she confessed her feelings, my world felt different.
+                    </p>
+                </div>
+            </div>
+
+            <div className='cell' data-aos="fade-up">
+                <h1 className='title'>The first time we met up felt unreal.</h1>
+                <h3 className='sub-title'>Dec 18, 2025</h3>
+                <div className='text'>
+                    <p>From Bacolod to Manila, we traveled not just for the distance, but for love. We went to different places, holding onto every moment, knowing it might take a long time before we could be together like that again.
+                    </p>
+                </div>
+            </div>
+
+            <div className='cell' data-aos="fade-up">
                 <h1 className='title'>To be continue</h1>
-                <h3 className='sub-title'>August 13, 2025</h3>
+                <h3 className='sub-title'>August 21, 2025</h3>
                 <div className='text'>
                     <p>To be continue</p>
                 </div>

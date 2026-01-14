@@ -4,7 +4,23 @@
   align-items: center;
   height: 100vh;
   padding: 0 20px; /* space for small screens */
-  background: linear-gradient(135deg, #fce4ec, #f8bbd0); /* soft gradient background */
+  /* background: linear-gradient(135deg, #fce4ec, #f8bbd0); */ /* soft gradient background */
+  background: url('../assets/cherrybgwebp.webp');
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  z-index: 1111111111;
+
+}
+
+.landing-container::after{
+  content: " " ;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  position: absolute;
+  opacity: 0.5;
+  z-index: -11111;
 }
 
 .landing-info {
@@ -20,20 +36,20 @@
   font-size: clamp(2rem, 6vw, 3.5rem); /* responsive font */
   margin-bottom: 0.5rem;
   font-weight: 700;
-  color: #d81b60; /* strong pink for contrast */
+  color: #fff; /* strong pink for contrast */
 }
 
 .landing-info h2 {
   font-size: clamp(1.2rem, 4vw, 2rem);
   margin-bottom: 1rem;
   font-weight: 500;
-  color: #880e4f;
+  color: #eee;
 }
 
 .landing-info p {
   font-size: 1rem;
   margin-bottom: 2rem;
-  color: #555;
+  color: #eee;
 }
 
 /* Button styling */
