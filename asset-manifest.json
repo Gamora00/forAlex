@@ -1,8 +1,18 @@
 {
   "files": {
-    "main.css": "/forAlex/static/css/main.2e781be0.css",
-    "main.js": "/forAlex/static/js/main.586989bf.js",
+    "main.css": "/forAlex/static/css/main.7262cf1f.css",
+    "main.js": "/forAlex/static/js/main.574905c2.js",
     "static/media/EPICMUSIC.mp3": "/forAlex/static/media/EPICMUSIC.c80eb3b378e1092bb15c.mp3",
+    "static/media/two.jpg": "/forAlex/static/media/two.34a9bb12b3d22e019a77.jpg",
+    "static/media/Eight.jpg": "/forAlex/static/media/Eight.7f40c00e6a28251f4b69.jpg",
+    "static/media/three.jpg": "/forAlex/static/media/three.c782d092b0ca8a916e03.jpg",
+    "static/media/nine.jpg": "/forAlex/static/media/nine.7d81e3760848028dded7.jpg",
+    "static/media/seven.jpg": "/forAlex/static/media/seven.d4286d1025d105125409.jpg",
+    "static/media/six.jpg": "/forAlex/static/media/six.ba7febf56b60a952f76d.jpg",
+    "static/media/one.jpg": "/forAlex/static/media/one.24fc90f7f261f41fb1bd.jpg",
+    "static/media/five.jpg": "/forAlex/static/media/five.ed7f45c7860f58f4ffdd.jpg",
+    "static/media/four.jpg": "/forAlex/static/media/four.6136030f7a1176bd8057.jpg",
+    "static/media/photo.jpg": "/forAlex/static/media/photo.965cb360153b4d1d581e.jpg",
     "static/media/cute.jpg": "/forAlex/static/media/cute.f0ac24d9bd6256288c25.jpg",
     "static/media/callF2f.jpg": "/forAlex/static/media/callF2f.c7d3bf272a9a718558c3.jpg",
     "static/media/journey.png": "/forAlex/static/media/journey.d5c37a7d21430f79ab09.png",
@@ -17,12 +27,13 @@
     "static/media/liveValo.jpg": "/forAlex/static/media/liveValo.20665d90fa674f708206.jpg",
     "static/media/message.png": "/forAlex/static/media/message.847e5991a15aa4d701d4.png",
     "static/media/prettyAlex.jpg": "/forAlex/static/media/prettyAlex.c0b97de35ffed852c8e8.jpg",
+    "static/media/cherrybgwebp.webp": "/forAlex/static/media/cherrybgwebp.3a5a3c05806b69fdb554.webp",
     "index.html": "/forAlex/index.html",
-    "main.2e781be0.css.map": "/forAlex/static/css/main.2e781be0.css.map",
-    "main.586989bf.js.map": "/forAlex/static/js/main.586989bf.js.map"
+    "main.7262cf1f.css.map": "/forAlex/static/css/main.7262cf1f.css.map",
+    "main.574905c2.js.map": "/forAlex/static/js/main.574905c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e781be0.css",
-    "static/js/main.586989bf.js"
+    "static/css/main.7262cf1f.css",
+    "static/js/main.574905c2.js"
   ]
 }
